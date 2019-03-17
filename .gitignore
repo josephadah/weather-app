@@ -1,0 +1,13 @@
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# .env
+# .env.example
+.env
+.env.prod
+
+# playground use for testing
+playground
